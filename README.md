@@ -1,5 +1,5 @@
 # Code-Kata
-code kata's in python based on codewars 
+code kata's to practice TDD
 
 TDD:
 1. RED (write a failing unit test)
